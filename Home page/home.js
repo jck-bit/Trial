@@ -1,0 +1,16 @@
+document.getElementById("submit").addEventListener("click", function() {
+    window.location.href = "../sales/sales.html";
+  })
+
+document.getElementById("holla").addEventListener("click", function() {
+    window.location.href = "../Products/product.html"
+  
+})
+
+document.getElementById("cart").addEventListener('click', function(){
+    window.location.href = "../cart/Cart.html"
+})
+
+document.getElementById("back").addEventListener('click', function(){
+    window.location.href = "../Login/index.html"
+})
