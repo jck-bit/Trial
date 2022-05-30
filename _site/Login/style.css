@@ -94,16 +94,19 @@ input[type=submit]{
 .forgot-password{
     position: relative;
     margin: auto;
+    cursor: pointer;
 }
 
 .forgot-password a{
     text-decoration: none;
     color: #C1C3C6;
+
 }
 
 .forgot-password a:hover{
     color: #FFF;
     transition: 1s;
+
 }
 
 .privacy{
